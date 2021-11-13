@@ -1,0 +1,43 @@
+.sl147_price_height {
+    height: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.sl147_title {
+    font-size: 1rem;
+    height: 3.5rem;
+	text-align: center;
+
+    a {
+        text-decoration: none!important;
+    }
+}
+
+.sl147_color_discount {
+    color: red;
+}
+.sl147_sale_price {
+    padding-left: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.sl147_regular_price {
+    text-decoration: line-through;
+}
+.sl147_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.sl147_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 200px;
+}
+
